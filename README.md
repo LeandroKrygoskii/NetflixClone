@@ -1,11 +1,8 @@
 <img src="https://github.com/LeandroKrygoskii/NetflixClone/blob/main/screenshot3.png" alt="projeto imagem">
 
-> Projeto sendo desenvolvido para uma ong da minha cidade. Que cuida de adoções, tratamento e denúncias de animais em estado de abandono.
-### Ajustes e melhorias
+> Clone Home da Netflix com React.js
+### Status ☕
 
-
-
-##☕ Status
 - [x] Projeto finalizado
 
 
